@@ -30,7 +30,7 @@ The `B1_RawData` folder provides the data collected on the evolution of the flat
 `D4_BEM.ipynb` is the Python script that conducts the building energy simulations. It relies on EnergyPlus. It exports in the outputs folder the results, which are then used to complete the life cycle inventory with energy flows during the use phase.
 `D5_LCA.ipynb` is the Python script that conducts the life cycle impact assessment. It relies on Brightway2.
 
-The two last scripts are available in PDF format.
+The two last scripts are available in PDF format: `D4_BEM.pdf` and `D5_LCA.pdf`.
 
 Each of the two scripts generates the graphs and tables used in the PhD dissertation and can be run again to check the results.
 
