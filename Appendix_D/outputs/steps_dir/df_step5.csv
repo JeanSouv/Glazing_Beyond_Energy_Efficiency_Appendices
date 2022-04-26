@@ -1,0 +1,17 @@
+name,glazing,heating_setpoint,cooling_setpoint,natural_gas,elec_use,ext_shdg_device,int_shdg_device,thermal_curtain,sg,sg_coated,dg,dg_coated,dg_coated_krypton,dg_2coatings,tg_coated,tg_2coatings,tg_2coatings_krypton,tg_2coatings_xenon,ccf,dg_vacuum,dg_smart,dsf
+e_a_2126_dg_init_vav_int,dg_init_bronze,_Heating_21,_Cooling_26,398.67636363636365,427.44126327272727,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+e_b_2126_dg0_vav_int,dg_0_clear,_Heating_21,_Cooling_26,358.3090909090909,470.1083127272728,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+e_c_2126_sg1_vav_int,sg_1_clear,_Heating_21,_Cooling_26,646.7163636363637,480.64450909090914,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+e_d_2126_sg2_vav_int,sg_2_coated,_Heating_21,_Cooling_26,438.70545454545453,409.90753745454543,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+e_e_2126_dg1_vav_int,dg_1_highSHG_highLT,_Heating_21,_Cooling_26,207.81454545454545,482.971968,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e_f_2126_dg2_vav_int,dg_3_midSHG_highLT,_Heating_21,_Cooling_26,253.39272727272729,431.6092734545454,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e_g_2126_dg3_vav_int,dg_2_midSHG_midLT,_Heating_21,_Cooling_26,247.7418181818182,435.11965527272724,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e_h_2126_dg4_vav_int,dg_4_lowSHG_lowLT,_Heating_21,_Cooling_26,204.7709090909091,393.2617614545455,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e_i_2126_dg5_vav_int,dg_5_lowSHG_midLT,_Heating_21,_Cooling_26,223.98181818181817,407.93970327272723,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e_j_2126_dg6_vav_int,dg_6_lowSHG_highLT,_Heating_21,_Cooling_26,244.02545454545455,427.2250843636363,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+e_k_2126_tg1_vav_int,tg_1_highSHG_highLT,_Heating_21,_Cooling_26,200.87636363636364,478.16754327272736,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+e_l_2126_tg2_vav_int,tg_2_midSHG_midLT,_Heating_21,_Cooling_26,232.78545454545454,434.0286589090908,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+e_m_2126_tg3_vav_int,tg_3_midSHG_highLT,_Heating_21,_Cooling_26,230.36363636363637,428.04737236363644,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+e_n_2126_tg4_vav_int,tg_4_lowSHG_lowLT,_Heating_21,_Cooling_26,201.60363636363635,397.86111927272736,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+e_o_2126_tg5_vav_int,tg_5_lowSHG_midLT,_Heating_21,_Cooling_26,204.44727272727272,399.7370269090909,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+e_p_2126_tg6_vav_int,tg_6_lowSHG_highLT,_Heating_21,_Cooling_26,226.3090909090909,428.3736610909091,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+name,glazing,heating_setpoint,cooling_setpoint,natural_gas,elec_use,ext_shdg_device,int_shdg_device,thermal_curtain,sg,sg_coated,dg,dg_coated,dg_coated_krypton,dg_2coatings,tg_coated,tg_2coatings,tg_2coatings_krypton,tg_2coatings_xenon,ccf,dg_vacuum,dg_smart,dsf
+n_a_2126_dg_init_cc,dg_init_bronze,_Heating_21,_Cooling_26,237.13090909090909,469.1294465454545,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+n_b_2126_dg0_cc,dg_0_clear,_Heating_21,_Cooling_26,207.88727272727272,516.069565090909,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+n_c_2126_dg4_cc,dg_4_lowSHG_lowLT,_Heating_21,_Cooling_26,118.9090909090909,428.73732654545455,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+n_d_2126_dg5_cc,dg_5_lowSHG_midLT,_Heating_21,_Cooling_26,130.54909090909092,444.85982836363644,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+n_e_2126_dg6_cc,dg_6_lowSHG_highLT,_Heating_21,_Cooling_26,143.49818181818182,465.8008974545454,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+n_f_2126_tg4_cc,tg_4_lowSHG_lowLT,_Heating_21,_Cooling_26,120.2690909090909,432.1083032727273,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+n_g_2126_tg5_cc,tg_5_lowSHG_midLT,_Heating_21,_Cooling_26,122.08,434.3882836363637,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+n_h_2126_tg6_cc,tg_6_lowSHG_highLT,_Heating_21,_Cooling_26,138.06181818181818,464.9321410909091,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
